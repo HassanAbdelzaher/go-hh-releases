@@ -1,4 +1,2 @@
 # Go HH next generation of mas mobile version
-## supporting android
-## supporting messaging
-## native version
+# https://github.com/mashhu/hand_held_18x/releases
